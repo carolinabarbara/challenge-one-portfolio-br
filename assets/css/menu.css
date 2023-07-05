@@ -1,0 +1,11 @@
+.menu__lista {
+    display: flex;
+      
+}
+
+.menu__item li {
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+

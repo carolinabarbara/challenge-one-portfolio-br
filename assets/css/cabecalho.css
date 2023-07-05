@@ -1,0 +1,21 @@
+/*Sessão Menu*/
+.cabecalho{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-left: 100px;     
+}
+
+.cabecalho div{
+    display: flex;
+    align-items: center;
+}
+
+.menu__lista {
+    display: flex;
+    justify-content: end;
+    width: 500;
+    size: 16px;
+}
